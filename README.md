@@ -1,2 +1,2 @@
-# cmip5-embeddings
-Cross-model embedding for CMIP5
+# cmip6-embeddings
+Cross-model embedding for the Coupled Model Intercomparison Project (CMIP) version 6
